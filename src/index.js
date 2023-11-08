@@ -5,7 +5,7 @@ const app = express();
 
 const router = require('../routes/routes');
 
-app.listen('port', 2020);
+app.listen('port', 3001);
 app.use(morgan('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
