@@ -1,0 +1,3 @@
+Prueba js 
+C:\Users\Pau\Desktop\prueba
+npm run server
