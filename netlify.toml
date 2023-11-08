@@ -1,6 +1,0 @@
-[build]
-  command = "npm run start"
-  publish = "public"
-
-[dev]
-  command = "npm run server" # Comando para iniciar el servidor en desarrollo

@@ -4,10 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "node src/index.js",
-    "start": "node src/index.js"
-}
-,
+    "server": "nodemon src/index.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
