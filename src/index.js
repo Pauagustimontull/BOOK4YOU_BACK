@@ -16,4 +16,3 @@ app.use(router);
 app.listen(app.get('port'), () => {
     console.log("Live at Port 2020");
 });
-//jj
