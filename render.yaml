@@ -1,0 +1,2 @@
+buildCommand: yarn   # El comando para instalar dependencias (puede ser npm o yarn)
+startCommand: yarn start  # El comando para iniciar la aplicación
