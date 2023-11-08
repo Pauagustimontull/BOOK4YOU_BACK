@@ -6,7 +6,7 @@ const app = express();
 const router = require('../routes/routes');
 
 // Utiliza el puerto 80.
-const port = 80;
+const port = process.env.PORT || 80;
 
 app.listen(port, () => {
     console.log(`Live at Port ${port}`);
