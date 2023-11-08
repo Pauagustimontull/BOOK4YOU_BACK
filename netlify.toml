@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build" # Comando para construir tu aplicación
+  publish = "public" # Carpeta que contiene los archivos a desplegar
+
+[dev]
+  command = "npm run server" # Comando para iniciar el servidor en desarrollo
